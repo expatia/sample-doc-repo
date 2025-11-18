@@ -1,0 +1,5 @@
+# Business Content
+
+Business Content is content intended to be included in software applications. This is content that may change over time but that may be maintained by business people within the company rather than software developers. Unlike Application Content (which is driven by configuration data within a software source code repository), no rebuild or redeployment of software is necessary.
+
+Typically Business Content is pulled from a Content Management System (CMS). Business Content may use scheduled publication of content to coincide with the availability of new software features or the timing of a marketing campaign. Another use of Business Content is to inform or remind users of legislative changes, support windows, changes in terms and conditions, upgrade procedures to follow and so on.
