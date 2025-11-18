@@ -1,4 +1,4 @@
-# Product Documentation Set
+# Platform Documentation Set
 
 Welcome to the product documentation set. This is intended for internal consumption by authorized company staff members.
 
