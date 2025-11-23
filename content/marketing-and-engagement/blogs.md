@@ -4,7 +4,7 @@ This section describes how use blogs and blog posts to help achieve the goals se
 
 Blogs are suitable as a means of engaging our customers and sales prospects in a more thoughtful and helpful way. We use our blog posts to:
 
-* advertize our products
+* advertise our products
 * educate users about our products
 * engage with our users to build brand loyalty
 * engage with our users to build a community around our products and services
